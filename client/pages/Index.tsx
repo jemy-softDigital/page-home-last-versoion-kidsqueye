@@ -69,6 +69,7 @@ export default function Index() {
             <input
               type="text"
               className="grow bg-transparent border-none focus:outline-none focus:ring-0"
+              placeholder="Search what you want...."
             />
           </div>
         </div>
