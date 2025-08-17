@@ -12,9 +12,7 @@ import {
   Star,
   Users,
   Shield,
-  Clock,
   Bell,
-  Heart,
   Smile,
   Search,
 } from "lucide-react";
